@@ -1,0 +1,658 @@
+{
+    "Coclé": {
+        "descripcion": "Coclé es una tierra de contrastes, con grandes atractivos naturales y turísticos. Posee una extraordinaria riqueza natural y folklórica. A través de la vida republicana, se ha distinguido por ser cuna de destacados políticos, muchos de los cuales han alcanzado el solio presidencial de la nación.",
+        "lugares_turisticos": [
+            {
+                "nombre": "Playa Santa Clara",
+                "descripcion": "La playa tiene una hermosa arena blanca y las brillantes aguas azules del océano pacífico. Si está de visita por el día puede alquilar cabañas con sillas de mesa y hamacas, con un techo hecho de hojas de palma secas. En la playa hay algunos restaurantes que ofrecen opciones de comida y bebida para disfrutar en el propio restaurante o para llevar a su cabaña.",
+                "servicios_incluidos": [
+                    "2 noches en un resort frente a la playa",
+                    "Desayuno diario",
+                    "Actividades acuáticas (kayak, snorkel)",
+                    "Transporte terrestre desde la ciudad de Panamá"
+                ],
+                "precio": "$1800.00"
+            },
+            {
+                "nombre": "El Valle de Antón",
+                "descripcion": "El Valle de Antón es un hermoso pueblo en las montañas situado en el cráter de un volcán extinto. Ubicado en la ladera de la montaña de la Riviera Pacífica, una visita al Valle de Antón es el complemento perfecto para un viaje a la playa. No solo hay mucho que hacer y ver allí, sino que también podrás combatir el calor de las regiones bajas.",
+                "servicios_incluidos": [
+                    "2 noches en una cabaña en las montañas",
+                    "Desayuno y cena",
+                    "Excursión guiada al Chorro Macho",
+                    "Impuestos hoteleros",
+                    "Transporte terrestre"
+                ],
+                "precio": "$1500.00"
+            },
+            {
+                "nombre": "El Chorro Macho",
+                "descripcion": "Este es uno de los puntos turísticos más emblemáticos de El Valle de Antón. En él podrás recorrer un hermoso sendero entre selva tropical y puentes colgantes que termina con una espectacular vista del chorro, que cae desde 35 metros de altura. Al final del recorrido puedes disfrutar de un baño en la piscina natural. La caminata entera es alrededor de 45 minutos y es de baja dificultad.",
+                "servicios_incluidos": [
+                    "2 noches en un hotel ecológico",
+                    "Desayuno",
+                    "Entrada y guía al Chorro Macho",
+                    "Senderismo guiado por el área"
+                ],
+                "precio": "$1200.00"
+            },
+            {
+                "nombre": "The Sleeping Indian Girl",
+                "descripcion": "Este tramo contiene los atractivos más icónicos de El Valle: la piedra pintada, la cima de la India Dormida y el Chorro Las Mozas. Muchos suben hasta la cima de la India Dormida para disfrutar de su impresionante vista, pero se regresan sin saber que puedes alargar tu aventura recorriendo todo el filo subiendo y bajando sus picos hasta llegar al Cerro La Cruz.",
+                "servicios_incluidos": [
+                    "2 noches en un hotel boutique",
+                    "Desayuno y cena",
+                    "Caminata guiada a la cima de la India Dormida",
+                    "Transporte privado"
+                ],
+                "precio": "$1300.00"
+            }
+        ]
+    },
+    "Colón": {
+        "descripcion": "La provincia de Colón es una pequeña provincia caribeña dentro de Panamá. Es rica en historia y tiene un paisaje incomparable. Está cerca de la zona del Canal de Panamá y del majestuoso y espléndido canal como tal. El clima es cálido y tiene temperaturas entre los 24º y los 30º °C durante todo el año.",
+        "lugares_turisticos": [
+            {
+                "nombre": "Portobelo National Park",
+                "descripcion": "Un destino para los amantes del ecoturismo lleno de historia y biodiversidad en la costa caribeña de Panamá. Este parque, reconocido como patrimonio de la humanidad por la UNESCO, te invita a sumergirte en un viaje fascinante a través de siglos de historia y a explorar la belleza exuberante de sus paisajes. Desde sus fortificaciones coloniales hasta sus arrecifes de coral, pasando por su exótica flora y fauna.",
+                "servicios_incluidos": [
+                    "2 noches en un hotel frente al mar",
+                    "Desayuno",
+                    "Tour guiado por el parque y sus fortificaciones coloniales",
+                    "Transporte terrestre"
+                ],
+                "precio": "$1700.00"
+            },
+            {
+                "nombre": "Gatún Locks",
+                "descripcion": "Las impresionantes Esclusas de Gatún, a 10 km al sur de Colón, elevan a los barcos que se dirigen al sur 30 m desde las aguas del Caribe hasta el lago Gatún. Su tamaño es alucinante: tres juegos de esclusas dobles se extienden a lo largo de 3 km. En cada una de ellas podría haber cabido el Titanic.",
+                "servicios_incluidos": [
+                    "1 noche en un hotel en Colón",
+                    "Desayuno",
+                    "Entrada a las esclusas y visita guiada",
+                    "Transporte terrestre"
+                ],
+                "precio": "$800.00"
+            },
+            {
+                "nombre": "Fuerte de San Lorenzo",
+                "descripcion": "El Castillo de San Lorenzo El Real de Chagres es una edificación militar que fue construida en diferentes etapas durante la época colonial. Originalmente constaba de una plataforma marina diseñada y construida por el ingeniero militar Bautista Antonelli entre 1595 y 1610, en la punta de un acantilado al nivel del mar.",
+                "servicios_incluidos": [
+                    "2 noches en un hotel en Colón",
+                    "Desayuno y cena",
+                    "Tour histórico por el fuerte",
+                    "Transporte privado"
+                ],
+                "precio": "$1400.00"
+            },
+            {
+                "nombre": "Atlantic Bridge",
+                "descripcion": "El Puente Atlántico, que cruza el Canal de Panamá cerca de la Ciudad de Colón, en el lado atlántico, tiene una longitud total de 3081 m (10108 pies). El puente atirantado principal tiene un vano principal de 530 m (1738 pies) y proporciona una altura vertical mínima de 75 m (246 pies) sobre el canal.",
+                "servicios_incluidos": [
+                    "1 noche en un hotel boutique en Colón",
+                    "Desayuno",
+                    "Tour fotográfico del puente y el canal",
+                    "Transporte terrestre"
+                ],
+                "precio": "$900.00"
+            }
+        ]
+    },
+    "Darién": {
+        "descripcion": "El Darién es el bosque de Colombia y Panamá que abarca 17.014 km2 y es la tercera mayor zona silvestre de Centroamérica. La Brecha del Darién es una franja de 160 km de bosque no desarrollado y humedales dentro del departamento del Chocó de Colombia, en Sudamérica, y la provincia del Darién de Panamá, en Centroamérica. Es la provincia con menos habitantes en el país.",
+        "lugares_turisticos": [
+            {
+                "nombre": "Darien National Park",
+                "descripcion": "El Parque Nacional del Darién es el mayor parque nacional de Panamá y la mayor zona protegida de Centroamérica y el Caribe, por no hablar de una de las regiones más indómitas de Centroamérica. Esta extensa selva presenta interminables bosques tropicales vírgenes, bosques pre montanos y montanos, bosques nubosos y bosques enanos, así como grandes manglares.",
+                "servicios_incluidos": [
+                    "3 noches en un campamento ecológico",
+                    "Todas las comidas (desayuno, almuerzo y cena)",
+                    "Excursiones guiadas por la selva",
+                    "Observación de fauna y flora"
+                ],
+                "precio": "$2200.00"
+            },
+            {
+                "nombre": "EcoTour Darién",
+                "descripcion": "Realizamos diferentes recorridos por la Selva de Darién. Desde recorridos de 2 días hasta recorridos de 14 días. Nuestros recorridos principales incluyen la visita a una aldea indígena Embera, el senderismo a través de la selva primaria y secundaria. Buscamos todo tipo de animales y ofrecemos recorridos especiales para la observación de aves.",
+                "servicios_incluidos": [
+                    "2 noches en un lodge en la selva",
+                    "Visita a una comunidad indígena Embera",
+                    "Caminata guiada por la selva",
+                    "Comida típica incluida"
+                ],
+                "precio": "$1800.00"
+            },
+            {
+                "nombre": "Darien Gap Panamá",
+                "descripcion": "El viaje hacia el Darien supera las expectativas de cualquiera. Una persona guía (te acompaña en caminata por la jungla aventuras) es una fácil guía habitual y ofrece una gran riqueza de conocimientos en Panamá, en general y Darién en particular. Los guías saben sobre todo lo que puedes encontrar (pájaros, insectos, serpientes, árboles y plantas, etc.), junto con la colorida historia del Darién y la gente que vive y viajes por la zona.",
+                "servicios_incluidos": [
+                    "3 noches en un lodge en la jungla",
+                    "Guía especializado en flora y fauna",
+                    "Caminatas diurnas y nocturnas",
+                    "Transporte 4x4 al punto de partida",
+                    "Comidas incluidas"
+                ],
+                "precio": "$2400.00"
+            },
+            {
+                "nombre": "ToursDarien",
+                "descripcion": "Con ToursDarien puedes hacer una cantidad de cosas impresionantes, como expediciones diurnas y nocturnas en la selvática provincia de Darien, al igual que puedes avistar muchísimas especies de aves, excursiones a reservas naturales del mismo, para disfrutar de su hermosa biodiversidad y ecosistemas, y visitar comunidades indígenas que conviven con la naturaleza.",
+                "servicios_incluidos": [
+                    "2 noches en un hotel ecológico",
+                    "Excursiones a reservas naturales",
+                    "Avistamiento de aves",
+                    "Guía local",
+                    "Desayuno y cena"
+                ],
+                "precio": "$1900.00"
+            }
+        ]
+    },
+    "Panamá": {
+        "descripcion": "Su capital es la Ciudad de Panamá, que es también la capital de la República. La misma tiene una superficie de 9 mil 166 km², la cual limita al norte con la provincia de Colón y la comarca Guna Yala, al sur con el Océano Pacífico; al este con la provincia de Darién y la comarca Wargandí y al oeste con la provincia de Panamá Oeste. Es la provincia más poblada del país.",
+        "lugares_turisticos": [
+            {
+                "nombre": "Casco Viejo",
+                "descripcion": "Esta ciudad, trazada de forma reticular hacia los cuatro puntos cardinales, se caracterizó por la axialidad de sus calles y póstigos, lo cual le valió ser considerada un modelo clásico de ciudad indiana. Está situada en una pequeña península, rodeada de un manto de arrecifes rocosos, dentro del actual corregimiento de San Felipe.",
+                "servicios_incluidos": [
+                    "2 noches en un hotel boutique en el Casco Viejo",
+                    "Desayuno y cena en restaurantes locales",
+                    "Tour guiado por el Casco Viejo y sus monumentos históricos"
+                ],
+                "precio": "$1500.00"
+            },
+            {
+                "nombre": "Biomuseo",
+                "descripcion": "Una conjunción poderosa entre ciencia y arte, es un museo de historia natural dedicado a Panamá que explora la relación entre su biodiversidad y su cultura. En 8 exhibiciones cuenta la historia del surgimiento del Istmo de Panamá hace 3 millones de años, y de cómo ese surgimiento unió continentes y dividió mares, cambiando el mundo para siempre.",
+                "servicios_incluidos": [
+                    "1 noche en un hotel cercano al museo",
+                    "Desayuno incluido",
+                    "Entrada y tour por el Biomuseo",
+                    "Transporte terrestre desde el hotel"
+                ],
+                "precio": "$800.00"
+            },
+            {
+                "nombre": "Canal de Panamá",
+                "descripcion": "El Canal de Panamá atraviesa el Istmo de Panamá en su punto más estrecho y utiliza un sistema de esclusas para elevar y bajar los barcos a diferentes niveles. El canal tiene una longitud de 77 km. Conecta los puertos de Balboa, en las costas del Océano Pacífico, y de Cristóbal, en el Mar Caribe.",
+                "servicios_incluidos": [
+                    "1 noche en un hotel frente al Canal",
+                    "Desayuno incluido",
+                    "Tour guiado por el Canal y Miraflores"
+                ],
+                "precio": "$1000.00"
+            },
+            {
+                "nombre": "Parque Natural Metropolitano",
+                "descripcion": "Este santuario de la naturaleza es considerado el pulmón de la ciudad capital, y es el único bosque tropical ubicado tan cerca de una zona metropolitana, en toda Latinoamérica. A pesar de su cercanía con la ciudad, el parque alberga una gran biodiversidad de flora, varias especies de aves, serpientes, anfibios y mamíferos.",
+                "servicios_incluidos": [
+                    "2 noches en un hotel ecológico cercano",
+                    "Desayuno y almuerzo incluidos",
+                    "Caminata guiada por el parque",
+                    "Avistamiento de fauna local"
+                ],
+                "precio": "$1100.00"
+            }
+        ]
+    },
+    "Panamá Oeste": {
+        "descripcion": "Creada el 1ro de enero de 2014 a partir de territorios segregados de la provincia de Panamá ubicados al oeste del Canal de Panamá. Su capital es la Chorrera. Limita al norte con la provincia de Colón, al sur con el Océano Pacífico; al este con la provincia de Panamá y al oeste con la provincia de Coclé.",
+        "lugares_turisticos": [
+            {
+                "nombre": "Loma Campana",
+                "descripcion": "La loma es una pequeña colina que le atraviesa la interamericana hasta las comunidades de Sajalices, El Espino, Bejuco y la ciudad de Chame. Del otro lado, el Cerro Campana también cautiva por sus verdor y perfil acampanado. Los ríos que surgen del centro de la roca son otros de sus grandes atractivos para disfrutar.",
+                "servicios_incluidos": [
+                    "2 noches en una cabaña de montaña",
+                    "Desayuno y almuerzo",
+                    "Caminatas por la zona",
+                    "Transporte terrestre desde la Ciudad de Panamá"
+                ],
+                "precio": "$1200.00"
+            },
+            {
+                "nombre": "Punta Chame",
+                "descripcion": "Este espacio acogedor en el distrito de Chame es una península que se adentra en el océano pacífico. Envuelto de unos 30 kilómetros de anchas costas de arena impecable, sorprende por su baja concurrencia. Sus dos playas: Norte y Sur, poseen sus propios encantos, ambientes y emotividad.",
+                "servicios_incluidos": [
+                    "2 noches en un hotel frente al mar",
+                    "Desayuno incluido",
+                    "Deportes acuáticos (kitesurf, paddle board)",
+                    "Transporte terrestre"
+                ],
+                "precio": "$1300.00"
+            },
+            {
+                "nombre": "Chicá",
+                "descripcion": "En sus espacios podrás disfrutar tanto de la vista de sus hermosos paisajes y diferentes animales. Por ejemplo, tucanes, gavilanes, ardillas blancas, entre muchos otros. También puedes visitar el Manantial los Algarrobos para disfrutar de un refrescante día alejado del bullicio citadino.",
+                "servicios_incluidos": [
+                    "2 noches en una posada ecológica",
+                    "Desayuno y cena incluidos",
+                    "Tour guiado por la zona para avistar aves y fauna"
+                ],
+                "precio": "$1400.00"
+            },
+            {
+                "nombre": "Los Chorros de Santa clara y Burunga",
+                "descripcion": "Sus chorros cuentan con dos cascadas alimentadas por el río Paja, que nace en territorio canalero. Los Chorros de Santa Clara y Burunga actualmente son considerados íconos del ecoturismo arraijaneño. Son el sitio predilecto para visitar en familia durante la temporada de sequía para disfrutar de sus frescas aguas cristalinas.",
+                "servicios_incluidos": [
+                    "1 noche en un eco-lodge",
+                    "Desayuno y almuerzo",
+                    "Excursión a las cascadas"
+                ],
+                "precio": "$900.00"
+            }
+        ]
+    },
+    "Ngäbe-Buglé": {
+        "descripcion": "En las montañas del oeste de Panamá, está la comarca (o región) indígena más grande de Panamá: el pueblo Ngäbe-Buglé. La comarca se formó en 1997 para otorgar a estos pueblos indígenas la autonomía de las tierras que antes pertenecían a las provincias de Bocas del Toro, Chiriquí y Veraguas. Vive la cultura vibrante de Panamá en primera persona conociendo a nuestros pueblos indígenas y observando de cerca su forma de vida.",
+        "lugares_turisticos": [
+            {
+                "nombre": "Turismo Ngäbe",
+                "descripcion": "Turismo Ngäbe, se describe como una empresa comercial con una fuerte conciencia social y ecológica; la cual desarrolla y apoya distintos proyectos, tales como la conservación de los recursos naturales de la comarca, ofreciendo actividades y tours para personas de diferente esfera social.",
+                "servicios_incluidos": [
+                    "2 noches en una cabaña tradicional Ngäbe",
+                    "Desayuno y cena tradicionales",
+                    "Tour cultural por la comarca y visitas a comunidades locales",
+                    "Artesanías locales de regalo"
+                ],
+                "precio": "$1300.00"
+            },
+            {
+                "nombre": "Tours de la Comarca",
+                "descripcion": "Realizamos rutas de varios días, como el Camino de Petroglifos de Guayabal o la vía hacia los grabados antiguos en la Cordillera Central o rutas de ecoturismo por todo el distrito de Munä. Recogemos a los pasajeros en el punto que desee y que acordemos de antemano. Nos adaptamos a la preferencia de nuestros clientes.",
+                "servicios_incluidos": [
+                    "2 noches en un campamento de montaña",
+                    "Desayuno, almuerzo y cena incluidos",
+                    "Caminata guiada por el Sendero de Petroglifos",
+                    "Guía local experto en la historia ancestral",
+                    "Transporte desde la comunidad base"
+                ],
+                "precio": "$1400.00"
+            },
+            {
+                "nombre": "Munä",
+                "descripcion": "Munä es uno de los distritos con diversidad natural, histórica y cultural, le ofrece experiencias únicas e inigualables, dándoles la oportunidad de tener inolvidables aventuras. Herederos de una cultura ancestral Ngäbe Bugle, con de sitios arqueológicos, hogar de las culturas pre - hispánicas, vestigios que hasta el momento continúan vivos gracias a las costumbres y tradiciones del pueblo Ngäbe y Buglé.",
+                "servicios_incluidos": [
+                    "2 noches en un eco-lodge en la montaña",
+                    "Desayuno y cena con ingredientes locales",
+                    "Visita a sitios arqueológicos prehispánicos",
+                    "Tour cultural por la comunidad Ngäbe",
+                    "Taller de artesanías tradicionales"
+                ],
+                "precio": "$1500.00"
+            },
+            {
+                "nombre": "Cultura Ngäbe",
+                "descripcion": "Las mujeres elaboran, entre su artesanía tradicional, elementos que les sirven para su vestimenta y de sus familias y para la venta. En ocasiones se puede ver infantes transportados en una chácara. También crean, mediante hilos y cuentas de colores, collares y pulseras llamados 'chaquiras', antiguamente usados como adornos para la guerra. Por su parte, los hombres tejen sombreros de fibra vegetal para uso cotidiano o para vender, que son los auténticos 'sombreros panamá'.",
+                "servicios_incluidos": [
+                    "1 noche en un alojamiento tradicional Ngäbe",
+                    "Desayuno, almuerzo y cena",
+                    "Taller de elaboración de chaquiras y sombreros típicos",
+                    "Visita a mercados locales",
+                    "Transporte terrestre"
+                ],
+                "precio": "$1200.00"
+            }
+        ]
+    },
+    "Chiriquí": {
+        "descripcion": "Chiriquí es una provincia de Panamá ubicada en la región occidental del país, teniendo como límites al norte la provincia de Bocas del Toro y la comarca Ngäbe-Buglé, al oeste la República de Costa Rica (provincia de Puntarenas), al este la provincia de Veraguas y al sur el Océano Pacífico.",
+        "lugares_turisticos": [
+            {
+                "nombre": "Caminata de Vida Salvaje en el Bosque Nuboso",
+                "descripcion": "El Parque Nacional Volcán Barú es una joya de Panamá. Alberga el pico más alto del país, el Volcán Barú, que se eleva a unos 3,475 metros. Es un lugar único donde, en días despejados, se pueden ver tanto el océano atlántico como el pacífico. Explore el Parque Nacional Volcán Barú en esta excursión guiada de medio día de senderismo. Después de un viaje de 25 minutos en coche, llegará al inicio del camino del oleoducto de unos 4,5 km (2,8 millas) de ida y vuelta. A lo largo del camino, descubrirá el Bosque Nuboso que rodea el perímetro del parque. El camino cuenta con un casco de antiguos árboles, puentes sobre un arroyo, y raras especies de animales, como el quetzal, los perezosos y los monos.",
+                "servicios_incluidos": [
+                    "Guía local profesional",
+                    "Transporte en minivan con aire acondicionado"
+                ],
+                "precio": "$33.62"
+            },
+            {
+                "nombre": "Ecoparque de Cerro La Cruz en Boquete",
+                "descripcion": "Ecoparque Cerro La Cruz se encuentra en un enclave mágico con un sempiterno clima primaveral. Ubicado en el cerro que preside la popular población de Boquete, en la provincia de Chiriquí, Panamá, cerca de Costa Rica.",
+                "servicios_incluidos": [
+                    "Entrada al Ecoparque Cerro La Cruz"
+                ],
+                "precio": "$42.24"
+            },
+            {
+                "nombre": "Tour Parque Botánico de Schumann",
+                "descripcion": "El Rainforest Park de Schumann's es el hogar de un pequeño vivero que contiene especies raras de orquídeas, abundante belleza de helechos y flores tropicales, muchos estanques, senderos para caminar y un cañón salvaje. Nuestra ubicación está cerca de la ciudad y, sin embargo, totalmente instalada en un entorno natural exótico y magnífico. En Schumann's Rainforest Park, los huéspedes pueden disfrutar de un ambiente seguro y estimulante para experimentar encuentros cercanos con la vida silvestre de la selva tropical. Los terrenos del parque brindan un hábitat natural para ocelotes, guacamayos, monos, muchas otras aves y loros, colibríes, mariposas, tortugas, peces koi y muchas más criaturas fascinantes. Venga a disfrutar de la biodiversidad única de la selva tropical de Panamá en un entorno accesible y accesible.",
+                "servicios_incluidos": [
+                    "Entrada a Schumann’s Resort & Park"
+                ],
+                "precio": "$28.16"
+            },
+            {
+                "nombre": "Boquete Hotsprings and Waterfall",
+                "descripcion": "Haremos un circuito atractivo de cañones y cascadas donde podrán apreciar la belleza de la naturaleza en todo su esplendor. La caminata es muy buena, la actividad de natación también ya que son lugares encantadores que te atraparan con su magia.",
+                "servicios_incluidos": [
+                    "Transporte",
+                    "Guía local profesional",
+                    "Agua",
+                    "Snacks"
+                ],
+                "precio": "$60.01"
+            }
+        ]
+    },
+    "Bocas del Toro": {
+        "descripcion": "Bocas del Toro es una provincia de Panamá y su capital es la Ciudad Homónima de Bocas del Toro. Tiene una extensión de 3,037 km², una población de 170,320 habitantes (2018) y sus límites: al norte con el mar Caribe, al sur con la provincia de Chiriquí, al este y sureste con la comarca Ngäbe-Buglé, al oeste con la comarca Naso Tjër Di, al noroeste con la provincia de Limón de Costa Rica y al suroeste con la provincia de Puntarenas de Costa Rica.",
+        "lugares_turisticos": [
+            {
+                "nombre": "Oasis Bluff Beach",
+                "descripcion": "Oasis Bluff Beach disfruta de vistas ininterrumpidas del océano y la playa desde la terraza, es un lugar ideal para almorzar o cenar o simplemente disfrutar de su bebida favorita y relajarse mientras está hipnotizado por las olas. La terraza Jungle (en la parte trasera de la propiedad) ofrece a los amantes de la naturaleza un espacio para sentarse y observar la naturaleza y la vida salvaje en sus actividades diarias. Todas las habitaciones cuentan con baños de gran tamaño y lujosos spas, y se proporcionan productos de belleza y de baño orgánicos locales para su uso. La ropa de cama fina complementa el alojamiento. Experimente un B&B con una diferencia y una vida fuera de la red. Ahora ofrecemos servicio de almuerzo y cena todos los días.",
+                "servicios_incluidos": [
+                    "Desayuno",
+                    "Reservaciones fáciles y rápidas",
+                    "Sin pago anticipado",
+                    "Estacionamiento gratis",
+                    "Transporte al aeropuerto",
+                    "Vista al mar con acceso a la playa"
+                ],
+                "precio": "$3,225"
+            },
+            {
+                "nombre": "Visita turística en lancha motora hasta Starfish Beach, Boca del Drago y la Isla de Aves",
+                "descripcion": "Pase un día conociendo las islas y las calmadas aguas de la provincia Bocas del Toro de Panamá. Visite Mangrove Point, Starfish Beach (acertadamente denominado así por la abundancia de criaturas del mismo nombre en estas aguas), Boca del Drago y la Isla de las Aves. Se proporcionan tanto el equipo de esnórquel y los chalecos salvavidas, por lo que podrá explorar este paraíso desde el agua, la playa y el barco.",
+                "servicios_incluidos": [
+                    "Conductor / guía",
+                    "Tasas del parque nacional",
+                    "Equipo de snorkel",
+                    "Enfriador con hielo",
+                    "Chalecos salvavidas"
+                ],
+                "precio": "$1,336.12"
+            },
+            {
+                "nombre": "Recorrido de un día por las islas de Bocas del Toro en la Playa Zapatilla",
+                "descripcion": "Explora los legendarios Cayos Zapatilla, dos islas deshabitadas rodeadas de espectaculares arrecifes de coral y prístinas playas de arena blanca. Pasea por este paraíso, relájate bajo las palmeras que se balancean y, si tienes suerte, observa a las tortugas marinas anidando en la orilla. Después de un delicioso almuerzo en Cayos Coral, la aventura termina en la piscina natural 'Hollywood', famosa por su abundancia de estrellas de mar. ¡No te pierdas esta oportunidad de sumergirte en la belleza de Bocas del Toro!",
+                "servicios_incluidos": [
+                    "Equipo de snorkel (máscara y snorkel)",
+                    "Enfriador con agua ilimitada",
+                    "Guía local bilingüe que habla inglés y español",
+                    "Entrada - Cayo Coral",
+                    "Entrada - Isla Zapatillas",
+                    "Entrada - Cayo Coral"
+                ],
+                "precio": "$59.80"
+            },
+            {
+                "nombre": "Excursión de día completo en lancha motora, flora y fauna y buceo de superficie en Bocas del Toro en Panamá",
+                "descripcion": "El archipiélago de islas Bocas del Toro de Panamá cubre una gran área. Esta excursión en lancha rápida desde el pueblo de Bocas incluye los lugares más populares en un día. Vea los delfines de Dolphin Bay, practique esnórquel en las islas Zapatilla y explore sus playas de arena blanca, busque perezosos en la Isla de Perezosos y disfrute de un almuerzo de mariscos frescos del Caribe (no incluido).",
+                "servicios_incluidos": [
+                    "Entrada para dispositivos móviles",
+                    "Guía en directo: inglés, español",
+                    "Entrada al Parque Nacional",
+                    "Entrada - Crawl Cay (Kraal Cay)"
+                ],
+                "precio": "$64.27"
+            }
+        ]
+    },
+    "Veraguas": {
+        "descripcion": "Veraguas es una de las diez provincias de Panamá. Su capital es la ciudad de Santiago de Veraguas. Tiene una superficie de 10,629 km², y un área de 10,587.6 km² y en el año 2022 tenía una población estimada de 248,000. Limita al norte con el mar Caribe, al sur con el Océano Pacífico, al este con las provincias de Colón, Coclé, Herrera, Los Santos y al oeste con la provincia de Chiriquí y la comarca Ngäbe-Buglé. Es la única provincia de Panamá que tiene costas en los océanos Atlántico y Pacífico.",
+        "lugares_turisticos": [
+            {
+                "nombre": "Reserva La Yeguada",
+                "descripcion": "Las faldas de este volcán son unos de los mejores lugares para acampar en Panamá. Mirar los azules turquesa en la cuenca hidrográfica de La Laguna de la Yeguada motiva a cualquier campista a visitar la zona. Son sabanas de gramas verdes, casi aislada por completo, pero hermosas y tranquilas. De las dos áreas que existen para acampar solo una ofrece baño con agua potable, la otra sólo una letrina. Se dos dólares por la entrada a cada persona y tres para tener derecho a acampar.",
+                "servicios_incluidos": [
+                    "Área para acampar puedes cocinar",
+                    "Duchas",
+                    "Sanitarios limpios",
+                    "Electricidad",
+                    "Acceso a la cascada queda a 5 minutos caminando"
+                ],
+                "precio": "$6"
+            },
+            {
+                "nombre": "Parque Acuático Italia Guadalupe Panamá",
+                "descripcion": "Es un parque con 2 toboganes altos y otros más pequeños para los niños. Varias piscinas unas para adultos y otras para niños. Tiene varios paraguas con sus sillas y puedes ordenar bebidas y comidas. Es un lugar para toda la familia o para pasarla con amigos. La mejor combinación es hospedarse en el hotel La Hacienda que está al lado. Esta es una de las mejores atracciones en la Ciudad de Santiago.",
+                "servicios_incluidos": [
+                    "Acceso a toboganes y un barco pirata en la piscina.",
+                    "Tiene restaurante (es parte del hotel hacienda) los huéspedes tienen descuento."
+                ],
+                "precio": "$10"
+            },
+            {
+                "nombre": "Tour de Avistamiento de Ballenas",
+                "descripcion": "Originalmente una colonia penal, hoy en día el parque es un santuario de flora y fauna, hogar de especies únicas y de ecosistemas de coral que albergan una extraordinaria variedad de vida marina. Es un destino perfecto para quienes disfrutan del buceo, el snorkel, el avistamiento de aves, y la exploración de paisajes naturales.",
+                "servicios_incluidos": [
+                    "Transporte en lancha equipada para avistamiento.",
+                    "Guía experto en comportamiento de cetáceos.",
+                    "Refrigerios y bebidas a bordo.",
+                    "Equipo de seguridad y binoculares para mejor observación."
+                ],
+                "precio": "$85"
+            },
+            {
+                "nombre": "Morrillo Beach Eco Resort",
+                "descripcion": "Morrillo Beach Eco Resort tiene jardín, salón de uso común, terraza y restaurante en Morrillo. Hay parking privado gratis y el alojamiento dispone de servicio de traslado de pago para ir o volver del aeropuerto. En el hotel, las habitaciones disponen de un balcón con vistas al río. Las habitaciones del alojamiento tienen baño privado con ducha y artículos de aseo gratuitos, y también incluyen vistas a la montaña. En Morrillo Beach Eco Resort, las habitaciones incluyen ropa de cama y toallas. El desayuno diario ofrece opciones buffet, continentales o vegetarianas.",
+                "servicios_incluidos": [
+                    "Dos noches",
+                    "Balcón",
+                    "Vistas al jardín",
+                    "Vistas a la montaña",
+                    "Baño en la habitación con todos los artículos de cuidado personal necesario",
+                    "Terraza",
+                    "Aire acondicionado"
+                ],
+                "precio": "$210"
+            }
+        ]
+    },
+    "Herrera": {
+        "descripcion": "Herrera es una provincia panameña situada en el norte de la Península de Azuero y su cabecera es la Ciudad de Chitré. Limita al norte con las provincias de Veraguas y Coclé, al sur con la provincia de Los Santos, al este con el Golfo de Parita y la provincia de Los Santos y al oeste con la provincia de Veraguas concretamente con el distrito de Mariato. Tiene una extensión de 2340.7 km² y en 2008 contaba con una población de 111,647 habitantes, población que se estimó en 107,911 habitantes en 2010.",
+        "lugares_turisticos": [
+            {
+                "nombre": "Sarigua National Park",
+                "descripcion": "Te invitamos a explorar el Parque Nacional Sarigua, uno de los tesoros naturales y culturales más antiguos de Panamá. Descubre su singular paisaje semiárido, la rica biodiversidad y los restos arqueológicos del sitio 'La Mula'. Con un guía experto, sumérgete en la historia y naturaleza de este parque único, que ofrece senderismo, observación de fauna, fotografía de paisajes, y la oportunidad de acampar bajo las estrellas.",
+                "servicios_incluidos": [
+                    "Guía Especializado",
+                    "Permiso de Acampada",
+                    "Espacio para Fotografía de Paisajes y Observación Astronómica"
+                ],
+                "precio": "$15.00"
+            },
+            {
+                "nombre": "Xplora Tours",
+                "descripcion": "Sumérgete en la riqueza cultural y natural de la provincia de Herrera con Xplora Tours. Este paquete ofrece una experiencia integral que combina historia, naturaleza y tradiciones locales. Disfruta de un recorrido por Chitré, conocido como 'La Ciudad que Crece Sola,' explorando sitios históricos, iglesias coloniales y mercados locales. Vive la aventura con una excursión a Isla Iguana, donde podrás relajarte en playas de arena blanca, practicar snorkel en arrecifes de coral y observar la vida silvestre, incluyendo aves marinas y ballenas jorobadas en temporada. Además, visita las impresionantes cascadas locales, ideales para nadar y conectarse con la naturaleza en un entorno tranquilo. Completa tu experiencia con una degustación de la cocina típica herrerana, probando platos como el sancocho y la tradicional chicha de maíz, para conocer la esencia de la gastronomía panameña.",
+                "servicios_incluidos": [
+                    "Guía Especializado",
+                    "Transporte Terrestre y Marítimo",
+                    "Equipo de Snorkel",
+                    "Almuerzos y Refrigerios",
+                    "Entradas a Sitios Turísticos"
+                ],
+                "precio": "$150.00"
+            },
+            {
+                "nombre": "Cubitá Tours",
+                "descripcion": "Explora la cultura, historia y naturaleza de Azuero con Cubitá Tours. Comienza con un recorrido por talleres de artesanos locales y pueblos coloniales, aprendiendo sobre las tradiciones y costumbres de la región. Luego, disfruta de un día en la hermosa Isla Iguana con playas de arena blanca, snorkel en arrecifes de coral y observación de aves. Completa la experiencia con un almuerzo tipo picnic en la playa y una degustación de platos típicos de Azuero.",
+                "servicios_incluidos": [
+                    "Transporte Terrestre y Marítimo",
+                    "Guía Bilingüe Especializado",
+                    "Equipo de Snorkel",
+                    "Sillas de Playa",
+                    "Agua y Bebidas No Alcohólicas"
+                ],
+                "precio": "$175.00"
+            },
+            {
+                "nombre": "Descubre Arena de Herrera: Artesanía y Cultura",
+                "descripcion": "Este paquete te lleva a la encantadora población de Arena de Herrera, famosa por su rica tradición en artesanías y su vibrante cultura. En este recorrido, podrás visitar la Casa de Artesanías, donde artesanos locales crean reproducciones precolombinas en vidrio y pintura, y explorar el proceso creativo detrás de estas obras. Sumérgete en la vida local mientras aprendes sobre la dedicación de los artesanos a su oficio, además de disfrutar de una feria cultural que resalta el folclore de Arena de Herrera y fomenta la apreciación de sus tradiciones.",
+                "servicios_incluidos": [
+                    "Guía Especializado",
+                    "Transporte Terrestre",
+                    "Materiales para el Taller de Artesanías",
+                    "Bebidas y Refrigerios"
+                ],
+                "precio": "$45.00"
+            }
+        ]
+    },
+    "Los Santos": {
+        "descripcion": "Los Santos es una provincia panameña, situada al sureste de la Península de Azuero. Las Tablas es su capital y localidad más poblada. Está compuesta por los distritos de Los Santos, Guararé, Las Tablas, Macaracas, Pedasí, Pocrí y Tonosí. Con una superficie de 3,809.4 km² y una población de 95,540 habitantes, limita al sur y al este con el Océano Pacífico, al norte con el Océano Pacífico y la provincia de Herrera, y al oeste con la Provincia de Veraguas, concretamente con el distrito de Mariato.",
+        "lugares_turisticos": [
+            {
+                "nombre": "Lección de surf de 1 hora en Playa Venao",
+                "descripcion": "Playa Venao, una joya en la costa del pacífico de Panamá ofrece a los visitantes una experiencia inolvidable de sol, mar y aventura. Desde sus aguas cristalinas hasta su vibrante escena gastronómica, esta playa tiene todo lo necesario para unas vacaciones perfectas. Descubre más sobre este destino turístico de renombre y cómo aprovechar al máximo tu visita.",
+                "servicios_incluidos": [
+                    "Guía en directo: inglés, español",
+                    "Tablas de surf"
+                ],
+                "precio": "$1,070.88"
+            },
+            {
+                "nombre": "Parque Nacional Cerro Hoya",
+                "descripcion": "Pertenece a las jurisdicciones de Los Santos y Veraguas. Está a 350 km de la capital de Panamá. Este parque volcánico posee una extensión de 32,579 acres y tiene los tres picos más altos en la península de Azuero, Cerro Hoya, Moya y Soja. Se puede ver desde los boscajes tropicales en las montañas, hasta un clima tropical húmedo a lo largo de la playa. Por ello tiene una gran diversidad de fauna y flora, como árboles, guayacanes, cóndores reyes u manchotas. Los principales ríos nacen en el Parque Nacional Cerro Hoya, que posee fantásticas cascadas y piscinas termales con agua cristalina.",
+                "servicios_incluidos": [
+                    "Guía turística",
+                    "Transporte",
+                    "Bebidas y Refrigerios"
+                ],
+                "precio": "$30"
+            },
+            {
+                "nombre": "Tour de Avistamiento de Ballenas y Snorkel en la Isla de Playa Venao",
+                "descripcion": "Tu viaje comienza con una conveniente parada en una encantadora panadería local para disfrutar de un delicioso desayuno. A continuación, abordarás una panga techada y navegarás hacia Isla Iguana, un parque marino protegido famoso por sus impresionantes arrecifes de coral y su fascinante vida marina. A medida que nos dirigimos a la isla, tendrás la increíble oportunidad de observar de cerca a las ballenas desde el bote, siendo testigo de estos gentiles gigantes en su hábitat natural.",
+                "servicios_incluidos": [
+                    "Guía en directo: inglés, español",
+                    "Transporte terrestre y marítimo",
+                    "Comida ligera: frutas, refrescos"
+                ],
+                "precio": "$84.33"
+            },
+            {
+                "nombre": "Pedasi Ocean Properties",
+                "descripcion": "Hotel a orillas del agua con servicio de recepción las 24 horas y alberca al aire libre, en Playa Arenal.",
+                "servicios_incluidos": [
+                    "Bar",
+                    "Aceptan mascotas",
+                    "Piscina",
+                    "Servicio a habitación",
+                    "Servicio de limpieza",
+                    "Recepción 24 h"
+                ],
+                "precio": "$184"
+            }
+        ]
+    },
+    "Emberá-Wounaan": {
+        "descripcion": "Emberá-Wounaan es una comarca indígena de Panamá. Fue creada en 1983 a partir de dos enclaves ubicados en la provincia de Darién, específicamente de los distritos de Chepigana y Pinogana. Su capital es Unión Chocó. Su extensión abarca 4383.5 km² y posee una población de 9544 habitantes (2010), la mayoría de estos pertenecen a las etnias Emberá y Wounaan, distribuidas en 40 comunidades.",
+        "lugares_turisticos": [
+            {
+                "nombre": "Tour por Tusipono Embera",
+                "descripcion": "La comunidad Emberá de Tusipono está ubicada en el punto donde convergen el Río Chagres y el Río Las Cascadas, ambos afluentes del Lago Alajuela. Considerado, por su cercanía, el segundo destino más visitado en Panamá, después del Canal de Panamá.",
+                "servicios_incluidos": [
+                    "Transporte marítimo y terrestre",
+                    "Bebidas y Refrigerio",
+                    "Almuerzo",
+                    "Tour guiado"
+                ],
+                "precio": "$98"
+            },
+            {
+                "nombre": "Tour Embera Puru Biakuru",
+                "descripcion": "La Comunidad Emberá Parará Purú, una población indígena que vive apostada a orillas del Río Chagres y del Lago Alajuela y en donde ellos se rigen por sus propias leyes, con un jefe supremo. Esta región es visitada por turistas que buscan artesanías como la flauta de bambú, chaquiras, maracas, collares y pulseras, productos fabricados por cada familia.",
+                "servicios_incluidos": [
+                    "Traslado terrestre",
+                    "Traslado acuático (piragua)",
+                    "Visita a aldea Emberá",
+                    "Inmersión cultural",
+                    "Almuerzo tradicional",
+                    "Presentación artística",
+                    "Visita a cascada"
+                ],
+                "precio": "$85.00"
+            },
+            {
+                "nombre": "Tour Embera Wouman",
+                "descripcion": "Sumérgete en la cultura de las comunidades Emberá y Wounaan en un tour que te permitirá conocer sus tradiciones, artesanía, música y danzas en un entorno natural. Experimenta un viaje en canoa por ríos locales y disfruta de la hospitalidad de la comunidad, incluyendo una degustación de la gastronomía típica y una caminata guiada por la selva tropical.",
+                "servicios_incluidos": [
+                    "Transporte terrestre ida y vuelta",
+                    "Transporte acuático ida y vuelta",
+                    "Almuerzo",
+                    "Bebida (no alcohólicas)",
+                    "Recorrido recreativo en la comarca"
+                ],
+                "precio": "$95.00"
+            },
+            {
+                "nombre": "Embera Quera",
+                "descripcion": "Descubre la rica cultura de la comunidad Emberá Quera, establecida en 2007 a orillas del lago Gatún, en Colón, Panamá. Esta comunidad ofrece una inmersión en sus tradiciones, historia y entorno natural único, incluyendo caminatas en la selva, cascadas, cenas tradicionales y talleres de artesanía.",
+                "servicios_incluidos": [
+                    "Transporte en bote hasta la reserva",
+                    "Caminata guiada en la selva tropical",
+                    "Visita a cascadas y tiempo libre para nadar",
+                    "Cena tradicional emberá y presentación cultural",
+                    "Taller de elaboración de canastos y máscaras tradicionales"
+                ],
+                "precio": "$110"
+            }
+        ]
+    },
+    "Guna Yala": {
+        "descripcion": "Guna Yala es una comarca indígena en Panamá, habitada por la etnia Guna. Antiguamente la comarca se llamó San Blas, hasta 1998 y Kuna Yala, hasta 2010. Los locales la conocen con varios nombres como: 'Dulenega', 'Yarsuid', 'Duleyala'. Su capital es Gairgirgordub. Limita al norte con el Mar Caribe, al sur con la provincia de Darién y la comarca Emberá Wounnan, al este con Colombia y al oeste con la provincia de Colón.",
+        "lugares_turisticos": [
+            {
+                "nombre": "Isla Ailigandí",
+                "descripcion": "Esta isla virgen ofrece un ambiente íntimo y relajado, perfecto para quienes buscan desconectar. Conocida por sus atardeceres impresionantes, la isla Uargandí permite a los visitantes disfrutar de las aguas cristalinas y tomar un paseo en kayak por manglares para ver la flora y fauna local. También cuenta con cabañas tradicionales donde es posible pernoctar y experimentar una velada guna.",
+                "servicios_incluidos": [
+                    "Transporte en lancha hasta la isla.",
+                    "Alojamiento en cabaña tradicional.",
+                    "Paseo en kayak por los manglares.",
+                    "Desayuno, almuerzo y cena con platos tradicionales.",
+                    "Observación de estrellas con historias y leyendas guna.",
+                    "1 noche"
+                ],
+                "precio": "$180"
+            },
+            {
+                "nombre": "Isla San Blas",
+                "descripcion": "La isla San Blas es famosa por sus aguas cristalinas y arenas blancas, un verdadero paraíso tropical en el caribe. Este destino ofrece una experiencia relajante y cultural en un entorno de belleza natural incomparable. Los visitantes pueden conocer más sobre la cultura guna a través de talleres de artesanías tradicionales y degustaciones de platos típicos.",
+                "servicios_incluidos": [
+                    "Máscara de snorkel",
+                    "Transporte compartido desde ciudad de Panamá – puerto – ciudad de Panamá para 6 pasajeros",
+                    "Transporte compartido en barco desde el puerto – islas – puerto",
+                    "Tours a iguana, perro chico, niunudub y piscina natural (4 islas)",
+                    "Merienda de bienvenida (frutas)",
+                    "Almuerzo tradicional (pescado fresco con ensalada y arroz)",
+                    "1 bebida (cerveza, botella de agua o refresco)",
+                    "Kayaks y tabla de paddle surf",
+                    "Sombrillas, sillas y toallas bajo petición y según disponibilidad.",
+                    "Juguetes de playa, pickle ball, mini golf, cama de agua exclusiva para clientes",
+                    "Entrada/admisión - Islas San Blas",
+                    "Entrada/admisión - isla Perro"
+                ],
+                "precio": "$149.0"
+            },
+            {
+                "nombre": "Día de Relax en Isla Chichime",
+                "descripcion": "Si buscas un día de relajación total en una de las playas más hermosas y tranquilas del archipiélago, esta es la opción ideal. La Isla Chichime es conocida por sus playas de arena blanca y aguas cristalinas, perfectas para nadar, hacer snorkel o simplemente disfrutar del sol y la brisa caribeña en una hamaca.",
+                "servicios_incluidos": [
+                    "Transporte en lancha a Isla Chichime.",
+                    "Almuerzo y bebidas no alcohólicas.",
+                    "Uso de equipo de snorkel.",
+                    "Acceso a hamacas y sombrillas.",
+                    "Tiempo libre para explorar la isla y relajarte."
+                ],
+                "precio": "$100"
+            },
+            {
+                "nombre": "Isla Aroma",
+                "descripcion": "Si bien muchas personas visitan las Islas San Blas en un viaje de un día apresurado, quedarse más tiempo le permite realmente relajarse y experimentar su belleza natural y cultural. Disfrute de una estancia de dos noches en bungalows en un resort junto a la playa. Los traslados por tierra y en barco y todas las comidas están incluidas, así como algunas actividades.",
+                "servicios_incluidos": [
+                    "Desayuno",
+                    "Almuerzo",
+                    "Cena",
+                    "Transporte terrestre de ida y vuelta para 6 pasajeros en una camioneta toyota 4x4.",
+                    "Barco en ambos sentidos desde el puerto de carti hasta la isla aroma.",
+                    "Cabaña privada con baño privado y piso de madera.",
+                    "Tour para visitar la isla perro chico barco hundido y piscina natural"
+                ],
+                "precio": "$282.25"
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "Coclé": {
+        "descripcion": "Coclé es una tierra de contrastes, con grandes atractivos naturales y turísticos. Posee una extraordinaria riqueza natural y folklórica.",
+        "sitios_turisticos": {
+            "Playa Santa Clara": "Hermosa arena blanca y brillantes aguas azules del océano Pacífico, con cabañas y opciones de comida.",
+            "El Valle de Antón": "Pueblo en las montañas en el cráter de un volcán extinto, ideal para combatir el calor y disfrutar de la naturaleza.",
+            "El Chorro Macho": "Sendero en la selva con puentes colgantes y una espectacular vista de una cascada de 35 metros.",
+            "The Sleeping Indian Girl": "Piedra pintada y caminata con vistas impresionantes hasta el cerro La Cruz."
+        }
+    },
+    "Colón": {
+        "descripcion": "La provincia de Colón es rica en historia y tiene un paisaje incomparable. Clima cálido y cerca de la zona del canal de Panamá.",
+        "sitios_turisticos": {
+            "Portobelo National Park": "Destino de ecoturismo y biodiversidad en la costa caribeña, con fortificaciones coloniales y arrecifes.",
+            "Gatún Locks": "Esclusas de Gatún elevan barcos desde el Caribe hasta el lago Gatún, impresionante obra de ingeniería.",
+            "Fuerte de San Lorenzo": "Castillo colonial en un acantilado, construido entre 1595 y 1610 por Bautista Antonelli.",
+            "Atlantic Bridge": "Puente atirantado sobre el canal de Panamá con una altura de 75 metros."
+        }
+    },
+    "Darién": {
+        "descripcion": "El Darién es una vasta selva de 17,014 km², la tercera mayor zona silvestre de Centroamérica.",
+        "sitios_turisticos": {
+            "Darien National Park": "Mayor parque nacional de Panamá con selvas tropicales, bosques nubosos y manglares.",
+            "Ecotour Darién": "Recorridos por la selva y visitas a aldeas indígenas Embera, con enfoque en avistamiento de aves y biodiversidad.",
+            "Darien Gap Panamá": "Guias experimentados acompañan en caminatas por la jungla con historia y fauna del Darién.",
+            "ToursDarien": "Expediciones en la provincia, con avistamiento de aves y visitas a comunidades indígenas."
+        }
+    },
+    "Panamá": {
+        "descripcion": "Su capital es la Ciudad de Panamá, es la provincia más poblada de Panamá.",
+        "sitios_turisticos": {
+            "Casco Viejo": "Ciudad de trazado reticular, considerada modelo clásico de ciudad indiana.",
+            "Biomuseo": "Museo de historia natural que explora la relación entre biodiversidad y cultura en Panamá.",
+            "Canal de Panamá": "Sistema de esclusas que conecta el Pacífico con el Caribe, con una longitud de 77 km.",
+            "Parque Natural Metropolitano": "Santuario natural cerca de la ciudad, considerado el pulmón de la capital."
+        }
+    },
+    "Panamá Oeste": {
+        "descripcion": "Creada en 2014, con capital en La Chorrera, limita con el canal de Panamá y el Océano Pacífico.",
+        "sitios_turisticos": {
+            "Loma Campana": "Pequeña colina en la interamericana con vistas y ríos atractivos.",
+            "Punta Chame": "Península en el Pacífico con playas amplias y ambiente tranquilo.",
+            "Chicá": "Paisajes naturales con diversidad de fauna como tucanes y ardillas blancas.",
+            "Los Chorros de Santa Clara y Burunga": "Cascadas alimentadas por el río Paja, ideales para el ecoturismo."
+        }
+    },
+    "Ngäbe-Buglé": {
+        "descripcion": "Comarca indígena formada en 1997 para otorgar autonomía a pueblos indígenas.",
+        "sitios_turisticos": {
+            "Turismo Ngäbe": "Empresa de turismo ecológico que apoya proyectos de conservación natural en la comarca.",
+            "Tours": "Rutas de ecoturismo por la comarca, incluyendo petroglifos y caminos arqueológicos.",
+            "Munä": "Distrito con diversidad natural y cultural, con experiencias únicas de cultura ancestral.",
+            "Cultura Ngäbe": "Artesanías tradicionales como chaquiras y sombreros de fibra vegetal."
+        }
+    }
+}
